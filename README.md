@@ -91,7 +91,7 @@ Check out my repositories to explore my work, experiments, and learning journey.
 I'm always interested in connecting with developers, learning from others, collaborating on projects, and exploring internship and career opportunities.
 
 - 💼 LinkedIn: [Connect with me](<https://www.linkedin.com/in/sumanth-sumi-58a8633b5/>)
-- 🐙 GitHub: [Explore my repositories](<https://github.com/sumisumanth555-dot>)
+- 🐙 GitHub: [Explore my repositories](<https://github.com/sumisumanth555-dot?tab=repositories>)
 - 📧 Email: sumisumanth555@gmial.com
 
 ---
